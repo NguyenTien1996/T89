@@ -1,6 +1,6 @@
 import React from 'react';
 import { withRouter } from 'react-router-dom'; 
-import img01 from '../../image/vnese.png';
+import img01 from '../../access/image/vnese.png';
 
 function Header(props) { 
     return(
